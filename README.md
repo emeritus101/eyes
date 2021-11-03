@@ -1,6 +1,6 @@
 # Eyes Moving Exercise
 
-![name-of-you-image](https://github.com/emeritus101/emeritus101.github.io/blob/main/eyes/eyes.JPG)
+![name-of-you-image](https://github.com/emeritus101/blob/main/eyes/eyes.JPG)
 
 ## Description: 
 This is an exercise on which I worked in Week 8 of the MIT xPro MERN JavaScript course. 
